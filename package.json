@@ -9,7 +9,7 @@
   "author": "Stavros Panagiotopoulos",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.11",
+    "inquirer": "^8.0.0",
     "jest": "^29.7.0",
     "node": "^21.1.0"
   }
