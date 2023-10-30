@@ -1,12 +1,11 @@
 {
   "name": "logo-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "svg-logo-generator",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "keywords": [],
   "author": "Stavros Panagiotopoulos",
   "license": "MIT",
   "dependencies": {

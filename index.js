@@ -6,11 +6,10 @@ Last Edited 10/29/2023
 */
 
 //retrieving packages
-
-
 const inquirer = require("inquirer");
 const fs = require("fs");
-const {Triangle, Square, Circle} = require("./lib/shapes.js");
+const {Triangle, Square, Circle} = require('./lib/shapes.js');
+
 
 
 //array of questions to get data needed to generate logo.svg
